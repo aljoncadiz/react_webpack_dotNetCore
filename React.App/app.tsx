@@ -1,12 +1,12 @@
 ﻿//declare var require: any
 
-import React from 'react';
-import ReactDOM from 'react-dom';
+var React = require('react');
+var ReactDOM = require('react-dom');
 
 class Hello extends React.Component {
     render() {
         return (
-            <h1>Welcome to React!!!!!!!!</h1>
+            <h1>Welcome to React!!</h1>
         );
     }
 }

@@ -1,3 +1,2 @@
-C:\dev\1.0 Visual Studio\DotNetCoreReact\React.App\obj\Debug\React.App.njsprojAssemblyReference.cache
-C:\dev\1.0 Visual Studio\DotNetCoreReact\React.App\obj\Debug\React.App.njsproj.CoreCompileInputs.cache
-C:\dev\1.0 Visual Studio\DotNetCoreReact\React.App\bin\Microsoft.NodejsTools.WebRole.dll
+C:\dev\bench\personal\git\react_webpack_dotNetCore\React.App\obj\Debug\React.App.njsproj.CoreCompileInputs.cache
+C:\dev\bench\personal\git\react_webpack_dotNetCore\React.App\bin\Microsoft.NodejsTools.WebRole.dll

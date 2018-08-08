@@ -7,8 +7,7 @@
     "name": "AljonC"
   },
   "devDependencies": {
-    "@types/node": "^6.0.116",
-    "react-hot-loader": "^4.3.4"
+    "@types/node": "^6.0.87"
   },
   "dependencies": {
     "express": "4.16.2",

@@ -11,7 +11,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>3a75742d-b6b5-4cc9-8a2a-fcfcd02cd58a</ProjectGuid>
+    <ProjectGuid>975a7388-a75b-4189-95d8-ef4a9893945b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>server.js</StartupFile>
     <StartWebBrowser>True</StartWebBrowser>
