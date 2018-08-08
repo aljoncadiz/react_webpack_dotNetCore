@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\1.0 Visual Studio\\DotNetCoreReact\\Chat.Model\\Chat.Model.csproj",
+      "projectUniqueName": "C:\\dev\\bench\\personal\\git\\react_webpack_dotNetCore\\Chat.Model\\Chat.Model.csproj",
       "projectName": "Chat.Model",
-      "projectPath": "C:\\dev\\1.0 Visual Studio\\DotNetCoreReact\\Chat.Model\\Chat.Model.csproj",
+      "projectPath": "C:\\dev\\bench\\personal\\git\\react_webpack_dotNetCore\\Chat.Model\\Chat.Model.csproj",
       "packagesPath": "C:\\Users\\AljonC\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\1.0 Visual Studio\\DotNetCoreReact\\Chat.Model\\obj\\",
+      "outputPath": "C:\\dev\\bench\\personal\\git\\react_webpack_dotNetCore\\Chat.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

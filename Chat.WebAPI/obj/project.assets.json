@@ -12684,11 +12684,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\1.0 Visual Studio\\DotNetCoreReact\\Chat.WebAPI\\Chat.WebAPI.csproj",
+      "projectUniqueName": "C:\\dev\\bench\\personal\\git\\react_webpack_dotNetCore\\Chat.WebAPI\\Chat.WebAPI.csproj",
       "projectName": "Chat.WebAPI",
-      "projectPath": "C:\\dev\\1.0 Visual Studio\\DotNetCoreReact\\Chat.WebAPI\\Chat.WebAPI.csproj",
+      "projectPath": "C:\\dev\\bench\\personal\\git\\react_webpack_dotNetCore\\Chat.WebAPI\\Chat.WebAPI.csproj",
       "packagesPath": "C:\\Users\\AljonC\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\1.0 Visual Studio\\DotNetCoreReact\\Chat.WebAPI\\obj\\",
+      "outputPath": "C:\\dev\\bench\\personal\\git\\react_webpack_dotNetCore\\Chat.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12707,8 +12707,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\dev\\1.0 Visual Studio\\DotNetCoreReact\\Chat.Model\\Chat.Model.csproj": {
-              "projectPath": "C:\\dev\\1.0 Visual Studio\\DotNetCoreReact\\Chat.Model\\Chat.Model.csproj"
+            "C:\\dev\\bench\\personal\\git\\react_webpack_dotNetCore\\Chat.Model\\Chat.Model.csproj": {
+              "projectPath": "C:\\dev\\bench\\personal\\git\\react_webpack_dotNetCore\\Chat.Model\\Chat.Model.csproj"
             }
           }
         }
