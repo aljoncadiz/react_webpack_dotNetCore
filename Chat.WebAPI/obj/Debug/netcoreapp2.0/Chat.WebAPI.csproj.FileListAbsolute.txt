@@ -1,0 +1,14 @@
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.WebAPI\bin\Debug\netcoreapp2.0\Chat.WebAPI.deps.json
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.WebAPI\bin\Debug\netcoreapp2.0\Chat.WebAPI.runtimeconfig.json
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.WebAPI\bin\Debug\netcoreapp2.0\Chat.WebAPI.runtimeconfig.dev.json
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.WebAPI\bin\Debug\netcoreapp2.0\Chat.WebAPI.dll
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.WebAPI\bin\Debug\netcoreapp2.0\Chat.WebAPI.pdb
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.WebAPI\bin\Debug\netcoreapp2.0\Chat.Model.dll
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.WebAPI\bin\Debug\netcoreapp2.0\Chat.Model.pdb
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.WebAPI\obj\Debug\netcoreapp2.0\Chat.WebAPI.csprojAssemblyReference.cache
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.WebAPI\obj\Debug\netcoreapp2.0\Chat.WebAPI.csproj.CoreCompileInputs.cache
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.WebAPI\obj\Debug\netcoreapp2.0\Chat.WebAPI.AssemblyInfoInputs.cache
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.WebAPI\obj\Debug\netcoreapp2.0\Chat.WebAPI.AssemblyInfo.cs
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.WebAPI\obj\Debug\netcoreapp2.0\Chat.WebAPI.csproj.CopyComplete
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.WebAPI\obj\Debug\netcoreapp2.0\Chat.WebAPI.dll
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.WebAPI\obj\Debug\netcoreapp2.0\Chat.WebAPI.pdb

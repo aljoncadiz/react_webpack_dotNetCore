@@ -1,0 +1,9 @@
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.Model\bin\Debug\netcoreapp2.0\Chat.Model.deps.json
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.Model\bin\Debug\netcoreapp2.0\Chat.Model.dll
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.Model\bin\Debug\netcoreapp2.0\Chat.Model.pdb
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.Model\obj\Debug\netcoreapp2.0\Chat.Model.csprojAssemblyReference.cache
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.Model\obj\Debug\netcoreapp2.0\Chat.Model.csproj.CoreCompileInputs.cache
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.Model\obj\Debug\netcoreapp2.0\Chat.Model.AssemblyInfoInputs.cache
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.Model\obj\Debug\netcoreapp2.0\Chat.Model.AssemblyInfo.cs
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.Model\obj\Debug\netcoreapp2.0\Chat.Model.dll
+C:\dev\1.0 Visual Studio\DotNetCoreReact\Chat.Model\obj\Debug\netcoreapp2.0\Chat.Model.pdb
